@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Deploying application version 1"
+echo "Deploying application to development"
